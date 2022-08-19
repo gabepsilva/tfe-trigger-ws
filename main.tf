@@ -5,5 +5,5 @@ variable "availability_zone_names" {
 }
 
 output "zone_names" {
-  value = "output1"
+  value = "output trigger 1"
 }
